@@ -1,0 +1,11 @@
+<DOCTYPE html!>
+<html>
+
+
+<link href='https://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
+
+<div class="change">
+	<h1>Color-changing background on refresh</h1>
+	<a href="https://codepen.io/eksch/full/wagdyZ" class="refresh">Refresh the page!</a>
+</div>
+</html>
